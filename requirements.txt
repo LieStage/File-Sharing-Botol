@@ -1,3 +1,5 @@
+requests
 Pyrogram
 TgCrypto
 Pyromod
+flask==2.0.1
